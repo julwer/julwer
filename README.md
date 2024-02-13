@@ -1,5 +1,4 @@
-<h1>Hi! 👋🏼</h1> <p>I'm Julia, a newbie frontend dev from Poland. <br>Currently I am playing around with the code to learn how to make more complex, <br>eye-pleasing, 
-and optimized websites.<p>
+<h1>👋🏼</h1> <p>Here are my recent projects, I am still working on new ones so stay ready for some new code!<p>
 <h2>My projects:</h2>
 <section style='font-size: 20px'>
    <div>
