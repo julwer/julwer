@@ -1,4 +1,4 @@
-<h1>👋🏼</h1> <p>Here are my recent projects, I am still working on new ones so stay ready for some new code!<p>
+<h1>👋🏼</h1> <p>Here are my recent projects, I am still working on new ones, so stay ready for some new code!<p>
 <h2>My projects:</h2>
 <section style='font-size: 20px'>
    <div>
